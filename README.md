@@ -1,1 +1,1 @@
-# prototype-bot01
+# Bot in Python for Private servers
